@@ -6,7 +6,7 @@
 + [ООП](#ООП)  ![icon][done]
 + [JVM](#jvm) 
 + [Java Core](#java-core)
-+ [Java Collections Framework](#java-collections)
++ [Java Collections Framework](#java-collections) ![icon][done]
 + [Java 8](#java-8)
 + [Потоки ввода-вывода в Java](#Потоки-вводавывода-в-java) 
 + [Сериализация](#Сериализация) 
